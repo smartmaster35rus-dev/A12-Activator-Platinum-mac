@@ -1,60 +1,74 @@
 # A12+ Activator Platinum
 
-MacOS/Win-стильный инструмент для активации iPhone и iPad, застрявших на экране приветствия (Hello Screen), под управлением Windows.
+**iOS device activation research toolkit for Apple A12+ — macOS**
 
-> [!WARNING]
-> Все действия выполняются на ваш страх и риск. Разработчик не несет ответственности за потерю данных, повреждение устройства или юридические последствия.
+[![Latest release](https://img.shields.io/github/v/release/smartmaster35rus-dev/A12-Activator-Platinum-mac?label=macOS&style=for-the-badge)](https://github.com/smartmaster35rus-dev/A12-Activator-Platinum-mac/releases/latest)
+[![Platform](https://img.shields.io/badge/Platform-macOS-black?style=for-the-badge&logo=apple)](https://github.com/smartmaster35rus-dev/A12-Activator-Platinum-mac/releases)
+[![Website](https://img.shields.io/badge/Site-smartmaster35rus--activator.ru-00c853?style=for-the-badge)](https://smartmaster35rus-activator.ru/)
 
 <p align="center">
-  <img src="screenshot.png" alt="A12+ Activator Platinum" width="800"/>
+
+[в¬‡пёЏ Download latest release](https://github.com/smartmaster35rus-dev/A12-Activator-Platinum-mac/releases/latest) В· [рџЌЋ Windows build](https://github.com/smartmaster35rus-dev/A12-Activator-Platinum-win/releases/latest) В· [рџЊђ Activator site](https://smartmaster35rus-activator.ru/compatible.php)
+
 </p>
 
-## Возможности
+---
 
-- **Активация iPhone / iPad / iPod** — исследование экрана приветствия (Hello Screen) (iCloud Hello Screen)
-- **Автоопределение устройства** — модель, серийный номер, IMEI, UDID, версия iOS, регион и статус активации
-- **Быстрые действия** — перезагрузка, выключение, выход из Recovery, сброс, блокировка OTA-обновлений
-- **Исправление iCloud-синхронизации** — мастер переноса резервной копии с донорского устройства для работы iMessage, FaceTime, App Store
-- **Список поддерживаемых моделей** — актуальная таблица с сервера: какие устройства и версии iOS поддерживаются
-- **Автообновление** — проверка и установка новых версий при запуске
-- **Инженерное меню** (Ctrl+Shift+F11) — расширенные настройки для опытных пользователей
-- **Поддержка языков** — английский, русский, испанский
+## рџ‡·рџ‡є Рћ РїСЂРѕРіСЂР°РјРјРµ
 
-## Системные требования
+**A12+ Activator Platinum (macOS)** — сервисный инструмент для iPhone/iPad **A12+**: активация, Hello Screen, регистрация на сервере, быстрые действия, Platinum UI.
 
-- **ОС:** Windows 10 (build 19041+) / Windows 11
-- **Обязательно:** [3uTools](http://www.3u.com/) + iTunes из состава 3uTools (НЕ из Microsoft Store)
-- USB-кабель для подключения устройства
+## рџ‡¬рџ‡§ About
 
-## Поддерживаемые устройства
+macOS build of the **A12+** activation research toolkit. Hello Screen workflows, server registration, device card, quick actions, live log.
 
-| Тип | Модели |
-|-----|--------|
-| **iPhone** | 6s / 6s Plus / SE (1st) / 7 / 7 Plus / 8 / 8 Plus / X / XR / XS / XS Max / 11 / 11 Pro / 11 Pro Max / SE (2nd) / 12 / 12 mini / 12 Pro / 12 Pro Max / 13 / 13 mini / 13 Pro / 13 Pro Max / SE (3rd) / 14 / 14 Plus / 14 Pro / 14 Pro Max / 15 / 15 Plus / 15 Pro / 15 Pro Max / 16 / 16 Plus / 16 Pro / 16 Pro Max / 16e / 17 / 17 Pro / 17 Pro Max / 17 Air |
-| **iPad** | Air 2 / mini 4 / Pro 9.7 / Pro 12.9 (1st/2nd) / 5 / 6 / 7 / Pro 10.5 / Pro 11 (все поколения) / Pro 12.9 (3rd+) / Air 3 / Air 4 / Air 5 / Air 6 (M2) / Air 7 (M3) / mini 5 / mini 6 / mini 7 (A17 Pro) / M4 / M5 |
-| **iPod** | 6 / 7 |
+---
 
-### Поддержка iOS
+## вњЁ Key features
 
-| Статус | Версии |
-|--------|--------|
-| Поддерживаются | iOS 14 — 18.7.2 |
-| Поддерживаются | iOS 26.0 — 26.1 beta 1 |
-| Не поддерживаются | iOS 18.7.3+ |
-| Не поддерживаются | iOS 26.1 beta 2+ |
+| Feature | Description |
+|---------|-------------|
+| 📱 **A12+ activation** | Supported iPhone / iPad models |
+| 🔐 **Hello Screen** | Activation research workflows |
+| 📋 **Server check** | Device authorization |
+| ⚡ **Quick actions** | Reboot, Recovery, OTA block, erase |
+| 🔄 **Updates** | GitHub Releases |
+| 🌍 **i18n** | Русский · English · Español |
 
-> [!NOTE]
-> Устройства китайского региона (CH/A, CN/A) могут требовать RJ45-адаптер или Apple Configurator.
+---
 
-## Быстрый старт
+## в¬‡пёЏ Download
 
-1. Установите 3uTools + iTunes из комплекта 3uTools
-2. Подключите устройство по USB (экран «Привет» должен быть активен, Wi-Fi подключён)
-3. Запустите A12 Activator Platinum
-4. Дождитесь определения устройства
-5. Нажмите **ACTIVATE DEVICE**
-6. Следуйте инструкциям на экране
+**[Releases](https://github.com/smartmaster35rus-dev/A12-Activator-Platinum-mac/releases/latest)**
 
-## Контакты
+> Use only on devices you are permitted to service. Run Windows builds as Administrator when required.
 
-- Поддержка: [t.me/SmartMaster35Rus](https://t.me/SmartMaster35Rus)
+## рџ“‹ Requirements
+
+- **macOS** with Apple Mobile Device / usbmux support
+- **iOS 13 – 26.x**
+- USB, trusted device
+- Authorized SN on server
+
+## рџ”— Related links
+
+| Resource | URL |
+|----------|-----|
+| Windows build | [A12-Activator-Platinum-win](https://github.com/smartmaster35rus-dev/A12-Activator-Platinum-win) |
+| Activator / support | [smartmaster35rus-activator.ru](https://smartmaster35rus-activator.ru/compatible.php) |
+
+---
+
+## вљ–пёЏ Disclaimer
+
+РРЅСЃС‚СЂСѓРјРµРЅС‚ РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅ РґР»СЏ **Р°РІС‚РѕСЂРёР·РѕРІР°РЅРЅРѕРіРѕ СЃРµСЂРІРёСЃР° Рё РёСЃСЃР»РµРґРѕРІР°РЅРёР№** РЅР° СѓСЃС‚СЂРѕР№СЃС‚РІР°С…, РєРѕС‚РѕСЂС‹РјРё РІС‹ РІР»Р°РґРµРµС‚Рµ РёР»Рё РёРјРµРµС‚Рµ РїСЂР°РІРѕ РѕР±СЃР»СѓР¶РёРІР°С‚СЊ.
+
+For **authorized service and research** on devices you own or may service.
+
+---
+
+<p align="center">
+
+**SmartMaster35Rus** В· [smartmaster35rus-activator.ru](https://smartmaster35rus-activator.ru/compatible.php)
+
+</p>
